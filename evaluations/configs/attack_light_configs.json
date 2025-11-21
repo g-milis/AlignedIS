@@ -1,0 +1,29 @@
+{
+    "time_dilation": {
+        "speed_factors": [0.9, 1.1]
+    },
+    "gaussian_noise": {
+        "snr": [30]
+    },
+    "encodec": {
+        "bandwidths": [12]
+    },
+    "quantization": {
+        "bits": [64]
+    },
+    "lowpass": {
+        "ratios": [0.4]
+    },
+    "smooth": {
+        "window_sizes": [6]
+    },
+    "echo": {
+        "delays": [0.05]
+    },
+    "opus": {
+        "bitrates": [16, 31]
+    },
+    "mp3": {
+        "bitrates": [32, 40]
+    }
+}
