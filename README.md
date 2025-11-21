@@ -11,7 +11,7 @@ Official implementation of Aligned-IS, a novel, robust, and distortion-free wate
 
 ### Installation
 
-Our current setup has been verified with older libraries, but you can try any setup supporting `fairseq==0.12.2`, `transformers==4.30.0`, and CUDA.
+Our current setup has been verified with older libraries, but you can try any setup supporting `fairseq==0.12.2`, `transformers==4.31.0`, and CUDA.
 
 Create an environment:
 ```
